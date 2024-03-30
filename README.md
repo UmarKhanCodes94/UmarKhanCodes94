@@ -36,6 +36,7 @@ I am a Data Professional who is
 ## My Education Background 
 A masters in Computer Science from [NUST](https://seecs.nust.edu.pk/) with specialization in machine learning. {2018 - 2020}
 🔭 Thesis topic: Anomalous event detection in gait of Parkinson's patients 
+  ****** Research Paper is currently under progress. 
 
 
 A masters in Project Management from [SZABIST](https://szabist-isb.edu.pk/management-sciences/ms-project-management/). {2017 - 2018}
