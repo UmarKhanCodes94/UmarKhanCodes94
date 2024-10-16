@@ -6,7 +6,7 @@ I am a Data Professional who is
 
 🔭 **currently working** as Product Manager-Digital & Consumer for a FMCG.  
 
-🌱 **currently involved** in revisiting basics and learning causal inference. 
+🌱 **currently involved** in revisiting basics of computer science and learning causal inference. 
 
 👯 Looking to **collaborate** on utilizing AI for health.
 
