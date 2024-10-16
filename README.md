@@ -4,12 +4,11 @@
 
 I am a Data Professional who is 
 
-🔭 **currently working** in the domains of Data Science and Analytics, Database Engineering, Solution Architecture Design and Development,
-    Contextual Marketing,  API Development.  
+🔭 **currently working** as Product Manager-Digital & Consumer for a FMCG.  
 
-🌱 **currently learning** and developing expertise in Algorithm and Data Structures, Causal Inference, Data Engineering. 
+🌱 **currently involved** in revisiting basics and learning causal inference. 
 
-👯 Looking to **collaborate** on cool data certification preps .
+👯 Looking to **collaborate** on utilizing AI for health.
 
 [![Linkedin Badge](https://img.shields.io/badge/-UmarKhan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/umar-khan-5b3948122/)](https://www.linkedin.com/in/umar-khan-5b3948122/)
 [![Youtube Badge](https://img.shields.io/badge/-MeYouAndData-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCqZ-TLxTgkPyUalrmpO4rEw)](https://www.youtube.com/channel/UCqZ-TLxTgkPyUalrmpO4rEw)
