@@ -12,7 +12,7 @@ I am a Data Professional who is
 
 [![Linkedin Badge](https://img.shields.io/badge/-UmarKhan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/umar-khan-5b3948122/)](https://www.linkedin.com/in/umar-khan-5b3948122/)
 [![Youtube Badge](https://img.shields.io/badge/-MeYouAndData-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCqZ-TLxTgkPyUalrmpO4rEw)](https://www.youtube.com/channel/UCqZ-TLxTgkPyUalrmpO4rEw)
-[![Gmail Badge](https://img.shields.io/badge/-umarkhancodes@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:umarkhancodes@gmail.com)](mailto:umarkhancodes@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-umarkhancodes@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:umarkhancodes@gmail.com)](mailto:umarkhanworks@gmail.com)
 
 ## ⚡ Technologies
 
