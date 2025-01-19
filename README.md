@@ -6,7 +6,7 @@ I am a Data Professional who is
 
 🔭 **currently working** as Product Manager-Digital & Consumer for a FMCG.  
 
-🌱 **currently involved** in revisiting basics of computer science and learning causal inference. 
+🌱 **currently involved** in developing Global Consumer Model + SCV + learning causal inference and AI for healthcare.
 
 👯 Looking to **collaborate** on utilizing AI for health.
 
@@ -35,7 +35,6 @@ I am a Data Professional who is
 ## My Education Background 
 A masters in Computer Science from [NUST](https://seecs.nust.edu.pk/) with specialization in machine learning. {2018 - 2020}
 🔭 Thesis topic: Anomalous event detection in gait of Parkinson's patients 
-  ****** Research Paper is currently under progress. 
 
 
 A masters in Project Management from [SZABIST](https://szabist-isb.edu.pk/management-sciences/ms-project-management/). {2017 - 2018}
